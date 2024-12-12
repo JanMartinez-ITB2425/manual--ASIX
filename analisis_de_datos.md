@@ -139,4 +139,3 @@ L'ús de la IA en l'anàlisi de dades aporta grans beneficis però també requer
 
 
 ---
-.
