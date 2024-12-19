@@ -15,15 +15,18 @@ Aquest manual està enfocat a explicar l'ús d'intel·ligència artificial (IA) 
 
 
 ## 2. Aplicacions de la IA en Anàlisi de Dades
+<img src="./imagenes/ia-revolucion-para-el-analisis-de-datos.webp">
 L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals destaquen:
 
 
 ### 2.1. Processament de dades massives (Big Data)
+<img src="./imagenes/No-confirmat-430253.jpg">
 - **Exemple:** Ús d'eines com Apache Spark amb models d'aprenentatge automàtic (MLlib).
 - **Aplicació:** Detectar patrons ocults i correlacions complexes en grans volums de dades.
 
 
 ### 2.2. Predicció i forecasting
+<img src="./imagenes/220px-NAM_500_MB.png">
 - **Exemple:** Models predictius amb TensorFlow o PyTorch.
 - **Aplicació:** Predicció de vendes, detecció de fraus i estimacions de demanda.
 
