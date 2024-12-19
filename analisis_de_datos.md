@@ -141,4 +141,4 @@ data.describe()
 L'ús de la IA en l'anàlisi de dades aporta grans beneficis però també requereix mesures per minimitzar els impactes ambientals. Adoptar bones pràctiques com l'optimització de models i l'ús de fonts d'energia renovables és essencial per garantir un desenvolupament sostenible.
 
 
----
+--
